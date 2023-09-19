@@ -3,6 +3,9 @@
 void feature(){
     printf("\nHello world in feature branch");
     printf("\nMerged the branch with master");
+    int a = 5;
+    int b = 6;
+    printf("\n%d", a + b);
 
 }
 
